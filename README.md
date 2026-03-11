@@ -1,32 +1,30 @@
-# AI Férias Agent
+# 🤖 AI Férias Agent
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+Projeto de um agente de inteligência artificial para ajudar no planejamento de férias e viagens.
 
-Agente inteligente em Python para calcular férias de funcionários com base nas regras da CLT brasileira.
+## 🚀 Tecnologias
+- Python
+- OpenAI
+- Inteligência Artificial
 
----
+## 📌 Funcionalidades
+- Sugestão de destinos
+- Planejamento de viagens
+- Assistente de férias com IA
 
-## Funcionalidades
+## ▶️ Como rodar o projeto
 
-- Calcula dias de férias conforme faltas do funcionário
-- Verifica elegibilidade após 12 meses de trabalho
-- Calcula adicional de 1/3 constitucional
-- Retorna valores aproximados para pagamento de férias
+Clone o repositório:
 
----
+git clone https://github.com/sophiafzulatto-art/ai-ferias-agent
 
-## Como usar
+Instale as dependências:
 
-```python
-from ferias_agent import FeriasAIAgent
+pip install -r requirements.txt
 
-agent = FeriasAIAgent()
+Execute o projeto:
 
-resultado = agent.analisar_funcionario(
-    nome="Maria Silva",
-    salario=4000,
-    faltas=2,
-    data_admissao="2022-05-01"
-)
+python main.py
 
-print(resultado)
+## 👩‍💻 Autora
+Sophia Zulatto
