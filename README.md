@@ -26,5 +26,9 @@ Execute o projeto:
 
 python main.py
 
+## Demonstração
+
+![Demo](images/demo.png)
+
 ## 👩‍💻 Autora
 Sophia Zulatto
