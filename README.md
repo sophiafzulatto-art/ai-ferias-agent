@@ -1,6 +1,6 @@
 # 🤖 AI Férias Agent
 
-Projeto de um agente de inteligência artificial para ajudar no planejamento de férias e viagens.
+Projeto de um agente de inteligência artificial para ajudar no calculo de férias de funcionários de uma empresa.
 
 ## 🚀 Tecnologias
 - Python
