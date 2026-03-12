@@ -8,8 +8,8 @@ Projeto de um agente de inteligência artificial para ajudar no calculo de féri
 - Inteligência Artificial
 
 ## 📌 Funcionalidades
-- Sugestão de destinos
-- Planejamento de viagens
+- Calculo de ferias 
+- Planejamento 
 - Assistente de férias com IA
 
 ## ▶️ Como rodar o projeto
